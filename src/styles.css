@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+}
+
+.App h1 {
+  text-align: center;
+}
+
+.input {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.input input,
+button {
+  padding: 5px 10px;
+}
